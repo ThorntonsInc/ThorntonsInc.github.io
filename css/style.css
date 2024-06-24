@@ -387,8 +387,8 @@ button {
 }
 
 .carousel-indicators li {
-     width: 20px;
-     height: 20px;
+     width: 0px;
+     height: 0px;
      background: #fafcfd;
      border-radius: 20px;
 }
