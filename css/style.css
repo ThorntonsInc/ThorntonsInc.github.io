@@ -500,23 +500,25 @@ button {
 /** about section **/
 
 .about {
-     background: url(../images/ab_bg.png);
+     background: url(../images/nothing.jpg);
      background-repeat: no-repeat;
      background-size: 100% 100%;
-     padding: 90px 0;
+     padding: 0px 0;
 }
 
 .about .titlepage {
      text-align: left;
-     padding: 0;
+     padding: 0 px;
+     display:inline-block;
 }
 
 .about .titlepage p {
      color: #292e39;
+     display:inline-block;
      font-size: 17px;
-     line-height: 35px;
+     line-height: 27px;
      font-weight: 500;
-     padding: 20px 0px 35px 0px;
+     padding: 5px 0px 0px 0px;
 }
 
 .about_img figure {
