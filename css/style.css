@@ -387,10 +387,10 @@ button {
 }
 
 .carousel-indicators li {
-     width: 0px;
-     height: 0px;
-     background: #fafcfd;
-     border-radius: 20px;
+     width: 20px;
+     height: 20px;
+     background: #e4c300;
+     border-radius: 35px;
 }
 
 .carousel-control-next-icon,
@@ -399,7 +399,7 @@ button {
 }
 
 .carousel-indicators {
-     bottom: 50px;
+     bottom: -25px;
 }
 
 .carousel-item img {
